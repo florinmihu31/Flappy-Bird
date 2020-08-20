@@ -11,4 +11,4 @@
 
 ### Screenshots
 
-![Flappy Bird Photo](https://imgur.com/a/SYb814e)
+![Flappy Bird Photo](https://imgur.com/bicEndp)
